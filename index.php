@@ -5,8 +5,9 @@
 <meta rel="git" src="git.txt">
 </head>
 <body>
-Será quem um like chega para mudar o país? O teu.
-já agora... amanhã queria aqui meter como se muda portugal, tens alguma ideia? Então passa cá amanhã lá pela noite dentro e deixa cá a tua.
+Será quem um like chega para mudar o país? O teu.<br>
+já agora... amanhã queria aqui meter como se muda portugal, tens alguma ideia?<br>
+Então passa cá amanhã lá pela noite dentro e deixa cá a tua.<br>
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
