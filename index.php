@@ -1,6 +1,8 @@
 
 <html>
 <head>
+<meta charset="utf-8"> 
+<meta rel="git" src="git.txt">
 </head>
 <body>
 Será quem um like chega para mudar o país? O teu.
