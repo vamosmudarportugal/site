@@ -19,9 +19,7 @@ já agora... amanhã queria aqui meter como se muda portugal, tens alguma ideia?
 
 
 <?php
-echo `cd ~/public_html;git pull`;
-echo `cd ~/public_html;git status`;
-echo `cd ~/public_html;git rev-parse --verify HEAD`;
+echo `sh /home/vamosmudarportugal_org/public_html/git_pull.sh`;
 ?>
 
 
