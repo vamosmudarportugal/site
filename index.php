@@ -3,6 +3,10 @@
 <head>
 <meta charset="utf-8"> 
 <meta rel="git" src="git.txt">
+<script>
+if (window.location.protocol != "https:")
+    window.location.href = "https:" + window.location.href.substring(window.location.protocol.length);
+</script>
 </head>
 <body>
 Será quem um like chega para mudar o país? O teu.<br>
