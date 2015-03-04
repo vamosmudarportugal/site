@@ -20,11 +20,12 @@ Então passa cá amanhã lá pela noite dentro e deixa cá a tua.<br>
 </body>
 
 
-
+<!--
+Em nome da transparência! ;)
 <?php
 echo `bash /home/vamosmudarportugal_org/public_html/git_pull.sh `;
 ?>
-
+-->
 
   
 </html>
