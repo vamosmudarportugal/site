@@ -29,6 +29,7 @@ Então passa cá amanhã lá pela noite dentro e deixa cá a tua.<br>
 
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
+  var disqus_identifier = '/ideias/'.<?php echo date("dmy") ?>;
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
