@@ -17,13 +17,13 @@ já agora... amanhã queria aqui meter como se muda portugal, tens alguma ideia?
 </body>
 
 
-<!--- em nome do oss 
+
 <?php
 echo `git pull`;
 echo `git status`;
 echo `git rev-parse --verify HEAD`;
 ?>
----->
+
 
   
 </html>
