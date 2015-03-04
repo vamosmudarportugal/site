@@ -19,9 +19,9 @@ já agora... amanhã queria aqui meter como se muda portugal, tens alguma ideia?
 
 
 <?php
-echo `git pull`;
-echo `git status`;
-echo `git rev-parse --verify HEAD`;
+echo `cd ~/public_html;git pull`;
+echo `cd ~/public_html;git status`;
+echo `cd ~/public_html;git rev-parse --verify HEAD`;
 ?>
 
 
