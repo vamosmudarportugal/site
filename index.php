@@ -19,7 +19,7 @@ já agora... amanhã queria aqui meter como se muda portugal, tens alguma ideia?
 
 
 <?php
-echo `sh /home/vamosmudarportugal_org/public_html/git_pull.sh`;
+echo `bash /home/vamosmudarportugal_org/public_html/git_pull.sh `;
 ?>
 
 
