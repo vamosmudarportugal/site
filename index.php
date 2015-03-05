@@ -1,11 +1,10 @@
-
 <!DOCTYPE html>
 <html lang="pt">
 
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Vamos mudar portugal</title>
+        <title>Vamos mudar Portugal</title>
         <meta name="description" content="">
         <meta name="author" content="ink, cookbook, recipes">
         <meta name="HandheldFriendly" content="True">
@@ -146,5 +145,5 @@ Em nome da transparência! ;)
 <?php
 echo file_get_contents('/home/vamosmudarportugal_org/public_html/git.txt');
 ?>
--- >
+-->
 </html>
