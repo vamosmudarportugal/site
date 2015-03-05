@@ -16,8 +16,8 @@
 
 
         <!-- load Ink's css from the cdn -->
-        <link rel="stylesheet" type="text/css" href="http://cdn.ink.sapo.pt/3.1.1/css/ink-flex.min.css">
-        <link rel="stylesheet" type="text/css" href="http://cdn.ink.sapo.pt/3.1.1/css/font-awesome.min.css">
+        <link rel="stylesheet" type="text/css" href="https://cdn.ink.sapo.pt/3.1.1/css/ink-flex.min.css">
+        <link rel="stylesheet" type="text/css" href="https://cdn.ink.sapo.pt/3.1.1/css/font-awesome.min.css">
 
         <!-- load Ink's css for IE8 -->
         <!--[if lt IE 9 ]>
@@ -25,18 +25,18 @@
         <![endif]-->
 
         <!-- test browser flexbox support and load legacy grid if unsupported -->
-        <script type="text/javascript" src="http://cdn.ink.sapo.pt/3.1.1/js/modernizr.js"></script>
+        <script type="text/javascript" src="https://cdn.ink.sapo.pt/3.1.1/js/modernizr.js"></script>
         <script type="text/javascript">
             Modernizr.load({
               test: Modernizr.flexbox,
-              nope : 'http://cdn.ink.sapo.pt/3.1.1/css/ink-legacy.min.css'
+              nope : 'https://cdn.ink.sapo.pt/3.1.1/css/ink-legacy.min.css'
             });
         </script>
 
         <!-- load Ink's javascript files from the cdn -->
-        <script type="text/javascript" src="http://cdn.ink.sapo.pt/3.1.1/js/holder.js"></script>
-        <script type="text/javascript" src="http://cdn.ink.sapo.pt/3.1.1/js/ink-all.min.js"></script>
-        <script type="text/javascript" src="http://cdn.ink.sapo.pt/3.1.1/js/autoload.js"></script>
+        <script type="text/javascript" src="https://cdn.ink.sapo.pt/3.1.1/js/holder.js"></script>
+        <script type="text/javascript" src="https://cdn.ink.sapo.pt/3.1.1/js/ink-all.min.js"></script>
+        <script type="text/javascript" src="https://cdn.ink.sapo.pt/3.1.1/js/autoload.js"></script>
 
 
         <style type="text/css">
@@ -85,7 +85,7 @@
 
             <header class="vertical-space">
                 <h1>Vamos mudar Portugal<small>vamos todos discutir como?</small></h1>
-                <div class="fb-like" data-href="http://vamosmudarportugal.org" data-layout="box_count" data-action="like" data-show-faces="true" data-share="true"></div>
+                <div class="fb-like" data-href="https://vamosmudarportugal.org" data-layout="box_count" data-action="like" data-show-faces="true" data-share="true"></div>
                 <nav class="ink-navigation">
                     <ul class="menu horizontal black">
                         <li class="active"><a href="https://vamosmudarportugal.org/#comment-1889946659">Motivações</a></li>
