@@ -99,7 +99,7 @@
                 </div>
             </div>
             <div class="column-group gutters">
-                <div id="disqus_thread"></div>
+                <div id="disqus_thread" style="width: 999px;"></div>
                     <script type="text/javascript">
                         /* * * CONFIGURATION VARIABLES * * */
                         var disqus_shortname = 'vamosmudarportugal';
