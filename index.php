@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="pt">
 
@@ -98,7 +97,7 @@
 
             </header>
 
-            <section class="column-group gutters article">
+            <section class="column-group gutters article push-left">
                 <div class="xlarge-70 large-70 medium-60 small-100 tiny-100">
                     <article>
                         <header>
@@ -122,7 +121,7 @@
                     </article>
                 </div>
             </section>
-            <section class="xlarge-30 large-30 medium-40 small-100 tiny-100">
+            <section class="xlarge-30 large-30 medium-40 small-100 tiny-100 push-right">
                 <h2>Projectos Amigos</h2>
                 <ul class="unstyled">
                     <li class="column-group half-gutters">
