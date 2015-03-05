@@ -16,7 +16,7 @@
 
 
         <!-- load Ink's css from the cdn -->
-        <link rel="stylesheet" type="text/css" href="http://cdn.indk.sapo.pt/3.1.1/css/ink-flex.min.css">
+        <link rel="stylesheet" type="text/css" href="http://cdn.ink.sapo.pt/3.1.1/css/ink-flex.min.css">
         <link rel="stylesheet" type="text/css" href="http://cdn.ink.sapo.pt/3.1.1/css/font-awesome.min.css">
 
         <!-- load Ink's css for IE8 -->
@@ -95,7 +95,7 @@
             </header>
             <div class="column-group gutters">
                 <div class="all-100">
-                    <h2>Discussões em curso.</h2><h6>As mais votadas, primeiro.</h6>
+                    <h2>Discussões em curso</h2>
                 </div>
             </div>
             <div class="column-group gutters">
