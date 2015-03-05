@@ -103,7 +103,7 @@
                     <script type="text/javascript">
                         /* * * CONFIGURATION VARIABLES * * */
                         var disqus_shortname = 'vamosmudarportugal';
-                        var disqus_identifier = '/ideias/02032014';
+                        var disqus_identifier = '/ideias/02032015';
                         /* * * DON'T EDIT BELOW THIS LINE * * */
                         (function() {
                             var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
