@@ -3,6 +3,10 @@
 
     <head>
         <meta charset="utf-8">
+<script>
+if (window.location.protocol != "https:")
+    window.location.href = "https:" + window.location.href.substring(window.location.protocol.length);
+</script>
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>vamosmudarportugal.org</title>
         <meta name="description" content="">
@@ -61,7 +65,9 @@
 
     <body>
         <div id="fb-root"></div>
-        <script>(function(d, s, id) {
+        <script>
+
+        (function(d, s, id) {
           var js, fjs = d.getElementsByTagName(s)[0];
           if (d.getElementById(id)) return;
           js = d.createElement(s); js.id = id;
@@ -102,9 +108,11 @@
                 <div id="disqus_thread" style="width: 999px;"></div>
                     <script type="text/javascript">
                         /* * * CONFIGURATION VARIABLES * * */
-                        var disqus_shortname = 'vamosmudarportugal';
-                        var disqus_identifier = '/ideias/020315';
-                        /* * * DON'T EDIT BELOW THIS LINE * * */
+			//var disqus_identifier = 'httpsvamosmudarportugalorg';
+ 			//var disqus_shortname = 'vamosmudarportugal';
+                     	var disqus_shortname  = 'vamosmudarportugal';
+			//var disqus_identifier = 'httpsvamosmudarportugalorg';
+			/* * * DON'T EDIT BELOW THIS LINE * * */
                         (function() {
                             var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
                             dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
