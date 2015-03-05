@@ -1,10 +1,11 @@
+
 <!DOCTYPE html>
 <html lang="pt">
 
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Vamos mudar Portugal</title>
+        <title>Vamos mudar portugal</title>
         <meta name="description" content="">
         <meta name="author" content="ink, cookbook, recipes">
         <meta name="HandheldFriendly" content="True">
@@ -120,15 +121,15 @@
 
                     </article>
                 </div>
-                <section class="xlarge-30 large-30 medium-40 small-100 tiny-100">
-                    <h2>Projectos Amigos</h2>
-                    <ul class="unstyled">
-                        <li class="column-group half-gutters">
-                            <div class="all-60 small-50 tiny-50"></div>
-                        </li>
+            </section>
+            <section class="xlarge-30 large-30 medium-40 small-100 tiny-100">
+                <h2>Projectos Amigos</h2>
+                <ul class="unstyled">
+                    <li class="column-group half-gutters">
+                        <div class="all-60 small-50 tiny-50"></div>
+                    </li>
 
-                    </ul>
-                </section>
+                </ul>
             </section>
         </div>
         <footer class="clearfix">
