@@ -106,7 +106,7 @@ if (window.location.protocol != "https:")
             </div>
             <div class="column-group gutters">
                 <div id="ty_tedXoPorto">
-                	<iframe src="https://embed-ssl.ted.com/talks/pia_mancini_how_to_upgrade_democracy_for_the_internet_era.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen>
+                	<iframe src="https://embed-ssl.ted.com/talks/lang/pt/pia_mancini_how_to_upgrade_democracy_for_the_internet_era.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen>
                 	</iframe>
                 </div>
                 <div id="disqus_thread" style=""></div>
