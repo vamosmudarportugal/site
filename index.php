@@ -109,7 +109,7 @@ if (window.location.protocol != "https:")
                 	<iframe src="https://embed-ssl.ted.com/talks/pia_mancini_how_to_upgrade_democracy_for_the_internet_era.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen>
                 	</iframe>
                 </div>
-                <div id="disqus_thread" style="width: 999px;"></div>
+                <div id="disqus_thread" style=""></div>
                     <script type="text/javascript">
                         /* * * CONFIGURATION VARIABLES * * */
 			//var disqus_identifier = 'httpsvamosmudarportugalorg';
